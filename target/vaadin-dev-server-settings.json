@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/пк/Downloads/NewsPortalDemo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/пк/Downloads/NewsPortalDemo/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/пк/Downloads/NewsPortalDemo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\пк\\Downloads\\NewsPortalDemo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\пк\\Downloads\\NewsPortalDemo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/пк/Downloads/NewsPortalDemo/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/пк/Downloads/NewsPortalDemo/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/пк/Downloads/NewsPortalDemo/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\пк\\Downloads\\NewsPortalDemo\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
